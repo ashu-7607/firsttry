@@ -1,4 +1,4 @@
 # firsttry
 this is my first repository
 <br>
-author - Ashutosh Mishra
+author - Ashutosh Mishra(modification)
